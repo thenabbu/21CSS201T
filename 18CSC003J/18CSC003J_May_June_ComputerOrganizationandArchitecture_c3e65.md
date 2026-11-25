@@ -1,0 +1,325 @@
+---
+paper_id: 18CSC003J_May_June_ComputerOrganizationandArchitecture_c3e65106
+course_code: 18CSC003J
+course_name: Computer Organization and Architecture
+exam_type: end-sem
+session: "May/June"
+semester: 
+duration: 3 Hours
+max_marks: 75
+source_kind: scan-vision
+transcribed_pages: 2
+---
+
+# 18CSC003J - Computer Organization and Architecture - May/June
+## PART - A
+
+### Q1
+
+A source program is usually in __________.
+(A) Assembly language
+(B) Machine level language
+(C) High level language
+(D) Natural language
+**Marks:** 1 · **BL:** 1 · **CO:** 1
+
+### Q2
+
+__________ structure is usually used to connect I/O devices.
+(A) Single bus
+(B) Multiple bus
+(C) Star bus
+(D) Ram bus
+**Marks:** 1 · **BL:** 1 · **CO:** 1
+
+### Q3
+
+The decoded instruction is stored in __________.
+(A) IR
+(B) PC
+(C) Registers
+(D) MDR
+**Marks:** 1 · **BL:** 1 · **CO:** 1
+
+### Q4
+
+ISP stands for __________.
+(A) Information standard processing
+(B) Instruction set processor
+(C) Interchange standard protocol
+(D) Interrupt service procedure
+**Marks:** 1 · **BL:** 1 · **CO:** 1
+
+### Q5
+
+Convert binary to decimal (11000)₂
+(A) (45)₁₀
+(B) (24)₁₀
+(C) (25)₁₀
+(D) (42)₁₀
+**Marks:** 1 · **BL:** 1 · **CO:** 2
+
+### Q6
+
+For the addition of large integers, most of the systems make use of __________.
+(A) Fast address
+(B) Full address
+(C) Carry-look ahead address
+(D) Parallel address
+**Marks:** 1 · **BL:** 1 · **CO:** 2
+
+### Q7
+
+When we perform subtraction on -7 and 1, the answer in 2's complement form is __________.
+(A) 1010
+(B) 1110
+(C) 0110
+(D) 1000
+**Marks:** 1 · **BL:** 1 · **CO:** 2
+
+### Q8
+
+Which methods of representation of numbers occupies large amount of memory than others?
+(A) Sign-magnitude
+(B) 1's compliment
+(C) 2's compliment
+(D) 10's compliment
+**Marks:** 1 · **BL:** 1 · **CO:** 2
+
+### Q9
+
+In a three bus architecture, how many input and output ports are there?
+(A) 2 output and 2 input
+(B) 1 output and 2 input
+(C) 2 output and 1 input
+(D) 1 output and 1 input
+**Marks:** 1 · **BL:** 1 · **CO:** 3
+
+### Q10
+
+The method used for restoring data dependency conflict by the compiler itself is
+(A) Delayed load
+(B) Operand forwarding
+(C) Prefect target instruction
+(D) Loop buffer
+**Marks:** 1 · **BL:** 1 · **CO:** 3
+
+### Q11
+
+Microinstructions are stored in control memory groups, with each group specifying a
+(A) Routine
+(B) Subroutine
+(C) Vector
+(D) Address
+**Marks:** 1 · **BL:** 1 · **CO:** 3
+
+### Q12
+
+Comparing the time $\text{T}_1$ taken for a single instruction on a pipelined CPU with time $\text{T}_2$ taken on a non-pipelined but identical CPU, we can say that
+(A) $\text{T}_1 <= \text{T}_2$
+(B) $\text{T}_1 > \text{T}_2$
+(C) $\text{T}_1 < \text{T}_2$
+(D) $\text{T}_1$ and $\text{T}_2$ plus time taken for are instruction fetch cycle
+**Marks:** 1 · **BL:** 1 · **CO:** 3
+
+### Q13
+
+Which one of the following is not a Flynn's classification?
+(A) MISD
+(B) SISD
+(C) MIMD
+(D) SMID
+**Marks:** 1 · **BL:** 2 · **CO:** 4
+
+### Q14
+
+______ multithreading switches threads only on costly stalls, such as last-level cache miss.
+(A) Coarse grained
+(B) Fine grained
+(C) Course grained
+(D) Tune grained
+**Marks:** 1 · **BL:** 2 · **CO:** 4
+
+### Q15
+
+$\text{I} = \text{I} + 1$;
+$\text{J} = \text{I} + 1$;
+The above is example sequence logic of
+(A) Write After Write (WAW)
+(B) Write After Read (WAR)
+(C) Read After Write (RAW)
+(D) Read After Read (RAR)
+**Marks:** 1 · **BL:** 1 · **CO:** 4
+
+### Q16
+
+The objective of $\text{S/W}$ and $\text{H/W}$ techniques, is to exploit
+(A) Parallelism
+(B) Scalability
+(C) Supervision
+(D) Computability
+**Marks:** 1 · **BL:** 1 · **CO:** 4
+
+### Q17
+
+$\text{PCI}$ stands for
+(A) Peripheral component interconnect
+(B) Peripheral computer internet
+(C) Processor computer interconnect
+(D) Processor cable interconnect
+**Marks:** 1 · **BL:** 1 · **CO:** 4
+
+### Q18
+
+The device connected to USB is assigned an ______ address.
+(A) $9\text{ bit}$
+(B) $16\text{ bit}$
+(C) $4\text{ bit}$
+(D) $7\text{ bit}$
+**Marks:** 1 · **BL:** 1 · **CO:** 5
+
+### Q19
+
+Once the bus is granted to a device it
+(A) Activates the bus busy line
+(B) Performs the required operation
+(C) Raises an interrupt
+(D) Activates the ready line
+**Marks:** 1 · **BL:** 2 · **CO:** 5
+
+### Q20
+
+In a program using subroutine call instruction, it is necessary to
+(A) Initialize program counter
+(B) Clear the accumulator
+(C) Reset the microprocessor
+(D) Clear the instruction register
+**Marks:** 1 · **BL:** 1 · **CO:** 5
+
+## PART - B ($5 \times 4 = 20\text{ Marks}$)
+Answer ANY FIVE Questions
+
+### Q21
+
+What are the four types of instruction set architecture you are aware of?
+**Marks:** 4 · **BL:** 2 · **CO:** 1
+
+### Q22
+
+Sketch Big-Endian and Little-Endian assignment.
+**Marks:** 4 · **BL:** 2 · **CO:** 1
+
+### Q23
+
+Write down the steps used for restoring and non restoring division.
+**Marks:** 4 · **BL:** 2 · **CO:** 2
+
+### Q24
+
+Elaborate the different techniques for micro instruction sequencing.
+**Marks:** 4 · **BL:** 2 · **CO:** 3
+
+### Q25
+
+Elaborate on branch prediction with example.
+**Marks:** 4 · **BL:** 2 · **CO:** 3
+
+### Q26
+
+Elaborate on software parallelism and its types.
+**Marks:** 4 · **BL:** 2 · **CO:** 4
+
+### Q27
+
+Write short notes on DMA data transfer.
+**Marks:** 4 · **BL:** 3 · **CO:** 5
+
+## PART - C ($5 \times 12 = 60\text{ Marks}$)
+Answer ALL Questions
+
+### Q28
+
+.a
+
+List and explain various addressing modes, with its formats and example.
+**Marks:** 12 · **BL:** 3 · **CO:** 1
+
+### Q28 (alt)
+
+### Q29
+
+.b
+
+Outline on instruction formats with suitable examples.
+**Marks:** 12 · **BL:** 3 · **CO:** 1
+
+### Q30
+
+.a
+
+Write Booth's algorithm and perform Booth multiplication of $-23 \times -19$.
+**Marks:** 12 · **BL:** 3 · **CO:** 2
+
+### Q30 (alt)
+
+### Q31
+
+.b
+
+Write restoring division algorithm and perform restoring division of $10/3$.
+**Marks:** 12 · **BL:** 3 · **CO:** 2
+
+### Q32
+
+.a
+
+List and explain the steps involved in execution of complete instruction.
+**Marks:** 12 · **BL:** 3 · **CO:** 3
+
+### Q32 (alt)
+
+### Q33
+
+.b
+
+Describe the generation of control signals using hardwire control unit, with necessary diagrams.
+**Marks:** 12 · **BL:** 3 · **CO:** 3
+
+### Q34
+
+.a
+
+Explain Flynn's classification and the four architecture in detail.
+**Marks:** 12 · **BL:** 3 · **CO:** 4
+
+### Q34 (alt)
+
+### Q35
+
+.b
+
+Discuss in detail the cache coherence problem and the protocol that is used to overcome cache coherence.
+**Marks:** 12 · **BL:** 3 · **CO:** 5
+
+### Q36
+
+.a
+
+Discuss about various mapping schemes used in cache design.
+**Marks:** 12 · **BL:** 3 · **CO:** 5
+
+### Q36 (alt)
+
+### Q37
+
+.b.i
+
+Differentiate memory mapped I/O and I/O mapped I/O.
+**Marks:** 6 · **BL:** 3 · **CO:** 5
+
+### Q38
+
+.b.ii
+
+Write a note on DMA transfer.
+**Marks:** 6 · **BL:** 3 · **CO:** 5
